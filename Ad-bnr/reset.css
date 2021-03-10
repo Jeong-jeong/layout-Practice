@@ -1,0 +1,9 @@
+html, body, h1, p, button {
+	margin: 0;
+	padding: 0;
+}
+
+a, button {
+	cursor: pointer;
+	border: 0 none;
+}
