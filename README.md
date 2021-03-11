@@ -17,6 +17,7 @@ _설명_
 - css animation으로 팝업 애니메이션 효과
 - JS는 function과 addEventlistener 주로 사용
 - 버튼 클릭시 새 html 파일로 이동
+
 👍 ref. 구름에듀 HTML, CSS는 재밌다 by 김버그
 
 
@@ -28,6 +29,7 @@ _설명_
 - 사용자가 이름을 입력하면 팝업창에서 값을 전달받음.
 - 메뉴 버튼에 마우스가 올라가면 css transtion 효과
 - 팝업창은 메뉴버튼을 클릭해야만 닫을 수 있음.
+
 👍 ref. Google
 
 
