@@ -1,5 +1,7 @@
 # Layout-Pratice
-👾 사용언어: HTML, CSS, JS  
+👾 Language: ![issue badge](https://img.shields.io/badge/HTML-eb5b0e)
+![issue badge](https://img.shields.io/badge/CSS-1e9be3)
+![issue badge](https://img.shields.io/badge/JavaScript-ffee00)
 
 
 ## Contents
