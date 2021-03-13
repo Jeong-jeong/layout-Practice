@@ -45,5 +45,7 @@ _설명_
 _설명_
 - html,css는 이미 만들어진 상태
 - js로 드롭다운 구현
+- blur의 개념 이해
+- for Each 활용하기
 
 👍 ref. [김버그의 DOM 강의 ch.5](https://youtu.be/OSFTXX_ex7I)
