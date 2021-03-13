@@ -7,6 +7,7 @@
 ## Contents
 - [modal-ad](#modal-ad)
 - [giggle-search](#giggle-search)
+- [pizza-dropdown](#pizza-dropdown)
 
 
 
@@ -23,6 +24,7 @@ _설명_
 👍 ref. 구름에듀 HTML, CSS는 재밌다 by 김버그
 
 
+
 2. ### giggle-search
 <img src = "https://user-images.githubusercontent.com/68528752/110768627-be0c8c80-829a-11eb-953c-e5179b4caf99.gif" width = "60%">
 
@@ -35,3 +37,11 @@ _설명_
 👍 ref. Google
 
 
+
+3. ### pizza-dropdown
+<img src="https://user-images.githubusercontent.com/68528752/111034236-f60cfe80-8457-11eb-8379-9b81b012ba73.gif" width = "60%"> 
+
+
+_설명_
+- html,css는 이미 만들어진 상태
+- js로 드롭다운 구현
