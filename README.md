@@ -72,7 +72,7 @@ _DESCRIPTION_
 
 
 5. ### responsive-header
-<img src="hhttps://user-images.githubusercontent.com/68528752/111336542-b09b3c00-86b8-11eb-835d-817145c93846.gif" width = "80%"> 
+<img src="https://user-images.githubusercontent.com/68528752/111336542-b09b3c00-86b8-11eb-835d-817145c93846.gif" width = "100%"> 
 
 
 _DESCRIPTION_
