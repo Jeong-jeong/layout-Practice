@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* reset & nomarlize */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 20px;
+}
+
+html {
+	font-family: 'Poppins', sans-serif;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+/* reset & nomarlize - end - */
+
+header {
+	background-color: #19C703;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+}
+
+.logo_section {
+	line-height: 30px;
+}
+
+.logo_section a{
+	display: block;
+}
+
+.logo_section .naver_logo {
+	width: 30px;
+	vertical-align: top;
+	border: 1px solid #eee;
+	margin-right: 5px;
+}
+
+.logo_section h1 {
+	display: inline-block;
+	font-size: 30px;
+}
+
+.gnb_menu {
+	display: flex;
+	font-weight: 600;
+}
+
+.gnb_menu li {
+	margin-right: 13px;
+}
+
+.other_site {
+	display: flex;
+}
+
+.other_site img {
+	width: 18px;
+}
+
+.other_site li:first-child {
+	margin-right: 10px;
+}
+
+.menu_btn {
+	display: none;
+}
+
+.menu_btn img {
+	width: 28px;
+}
+
+.sub_menu {
+	display: none;
+	background-color: #19C703;
+	text-align: center;
+}
+
+.sub_menu li {
+	border-radius: 3px;
+	padding: 3px;
+}
+
+.sub_menu li:hover {
+	background-color: #2CBF04;
+}
+
+.sub_menu li:first-child {
+	margin: 0 10px 7px;
+}
+
+.sub_menu li:last-child {
+	padding-top: 20px;
+}
+
+.sub_menu li + li {
+	margin: 7px 10px;
+}
+
+.sub_menu a {
+	display: block;
+	margin: 0 auto;
+}
+
+.sub_menu .icon a {
+	display: inline;
+}
+
+@media screen and (max-width: 768px) {
+	.gnb_menu,
+	.other_site {
+		display: none;
+	}
+
+	.sub_menu {
+		display: block;
+	}
+
+	.menu_btn {
+		display: block;
+		cursor: pointer;
+	}
+}
+
+.toggle {
+	display: none;
+}
+
+
+
+
+
+
