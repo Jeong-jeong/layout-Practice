@@ -10,6 +10,7 @@
 - [pizza-dropdown](#pizza-dropdown)
 - [product-card](#product-card)
 - [responsive-header](#responsive-header)
+- [loading-bar](#loading-bar)
 
 
 
@@ -72,9 +73,22 @@ _DESCRIPTION_
 
 
 5. ### responsive-header
-<img src="https://user-images.githubusercontent.com/68528752/111336542-b09b3c00-86b8-11eb-835d-817145c93846.gif" width = "100%"> 
+<img src="https://user-images.githubusercontent.com/68528752/111336542-b09b3c00-86b8-11eb-835d-817145c93846.gif" width = "80%"> 
 
 
 _DESCRIPTION_
 - media query를 이용한 반응형 헤더 구현
 - 간단한 드롭다운 JS로 구현
+
+
+
+
+6. ### loading-bar
+<img src="https://user-images.githubusercontent.com/68528752/114139240-c2839e00-9949-11eb-99e7-c7b4e2d9e9fd.gif" width="60%">
+
+👍 ref. [김버그의 HTML & CSS는 재밌다](https://edu.goorm.io/lecture/20583/%EA%B9%80%EB%B2%84%EA%B7%B8%EC%9D%98-html-css%EB%8A%94-%EC%9E%AC%EB%B0%8C%EB%8B%A4)
+
+
+
+_DESCRIPTION_
+- 간단한 로딩창 구현
