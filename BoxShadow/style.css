@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+
+
+.content {
+	display: flex;
+	justify-content: center;
+	margin: 200px auto;
+}
+
+button {
+	font-family: 'Poppins', sans-serif;
+	width: 161px;
+	height: 56px;
+	border-radius: 100px;
+	border: 0 none;
+	font-size: 20px;
+	line-height: 1.2;
+	color: #fff;
+	cursor: pointer;
+	outline: 0;
+}
+
+.cancel-btn {
+	margin-right: 20px;
+	background: #FF4949;
+	box-shadow: 0 10px 16px 0 rgba(255,73,73,0.35);
+}
+
+.confirm-btn {
+	background: #13CE66;
+	box-shadow: 0 10px 16px 0 rgba(19,206,102,0.35);
+}
