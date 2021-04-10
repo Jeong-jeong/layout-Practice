@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body {
+	margin: 200px auto;
+	display: flex;
+	justify-content: center;
+	background: #E9EBF1;
+
+}
+
+.rectangle {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background: #E9EBF1;
+	border-radius: 50px;
+	transition: box-shadow 500ms;
+}
+
+.rectangle:hover {
+	box-shadow: 24px 24px 55px 0 rgba(207,209,214,0.7),
+	-24px -24px 55px 0 rgba(255,255,255,0.4);
+}
+
