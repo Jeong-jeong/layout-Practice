@@ -1,0 +1,20 @@
+@charset 'utf-8';
+
+/* 너무 쉬워서 커밋만 하는걸로 */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+.box {
+	width: 150px;
+	height: 150px;
+	border-radius: 20px;
+	background-color: #0066ff;
+	transition: transform 500ms;
+}
+
+.box:hover {
+	transform: rotate(45deg)
+}
